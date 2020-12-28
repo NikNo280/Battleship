@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Battleship</string>
+    <string name="Select_image">Please Select image</string>
+    <string name="Image_uploaded">Image uploaded</string>
+    <string name="Uploading_Image">Uploading Image</string>
+    <string name="Profile">Profile</string>
+    <string name="create">Создать комнату</string>
+    <string name="connect">Подключиться к комнате</string>
+    <string name="profile">Страница пользователся</string>
+    <string name="roomEt">Введите название комнаты</string>
+    <string name="statistic">Стастистика</string>
+</resources>
